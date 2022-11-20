@@ -8,3 +8,6 @@ Cars in asrformula come with a lot of stupid mistakes. It is crystally clear tha
 fixes, that are accepted and tested
 ## dev branch
 work in progress fixes
+
+## contact 
+zdenegti@gmail.com
